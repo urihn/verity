@@ -1,0 +1,27 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1794626005
+character_body_2d.tscn::PackedScene::3169462647795327161::1794625910::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::3178865741785748057::1794621898::1794626005::1::::<><><>0<>0<>2f40435ab497c10effe38ad552704d18<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+LICENSE & CREDITS.txt::TextFile::-1::1794623147::0::1::::<><><>0<>0<><>::
+node_2d.tscn::PackedScene::1154011416610922349::1794625906::0::1::::<><><>0<>0<><>::uid://cb5bx2lei4rr1::::res://sprites/world_tileset.png
+verity.tscn::PackedScene::4141987270865406733::1794625899::0::1::::<><><>0<>0<><>::uid://eg73xf6thqun::::res://sprites/knight.png
+::res://fonts/::1794623147
+PixelOperator8-Bold.ttf::FontFile::2515041305594785878::1794623147::1794626005::1::::<><><>0<>0<>13b5104b384dbf371072936b10f6a7fc<>res://.godot/imported/PixelOperator8-Bold.ttf-9816dd625e887c8fd6e5634edb7d64db.fontdata::
+PixelOperator8.ttf::FontFile::3839300509648756887::1794623147::1794626005::1::::<><><>0<>0<>8430f8f13bef92abc735edeae1305ce9<>res://.godot/imported/PixelOperator8.ttf-47b55c2c6c56107c69fa972cdf12fcff.fontdata::
+::res://music/::1794623147
+time_for_adventure.mp3::AudioStreamMP3::5075876164601029234::1794623147::1794626005::1::::<><><>0<>0<>a6e0fc660ccf31ae1fff71dc5c7d5438<>res://.godot/imported/time_for_adventure.mp3-2780301e92dd6fe7ff9355bb3f98cf7c.mp3str::
+::res://sounds/::1794623147
+coin.wav::AudioStreamWAV::4850750244175748036::1794623147::1794626005::1::::<><><>0<>0<>288e2b264c399dd77d2602585d830f6a<>res://.godot/imported/coin.wav-fc7782b3c19e2c95d42ef7b3c218a810.sample::
+explosion.wav::AudioStreamWAV::925302284156141747::1794623147::1794626005::1::::<><><>0<>0<>124950eb65f7de1ef887ba931b50fa84<>res://.godot/imported/explosion.wav-3b6b3677a752f01353ef5846b5b927e3.sample::
+hurt.wav::AudioStreamWAV::9139394849271407412::1794623147::1794626005::1::::<><><>0<>0<>226fb0558232efc59c6f28eb440bab53<>res://.godot/imported/hurt.wav-8b8d4b6294ef6393060b0c1cc25a5492.sample::
+jump.wav::AudioStreamWAV::1112602368168267271::1794623147::1794626005::1::::<><><>0<>0<>d32dfe30f715a039320f3b02a39acfe6<>res://.godot/imported/jump.wav-63d72944e2f01652b323ac239fd6a06d.sample::
+power_up.wav::AudioStreamWAV::2164379886354352813::1794623147::1794626005::1::::<><><>0<>0<>48b2450383427732e456700bd2f896d1<>res://.godot/imported/power_up.wav-938d91a74b84097033e42a90e313524a.sample::
+tap.wav::AudioStreamWAV::7685186445196594093::1794623147::1794626005::1::::<><><>0<>0<>9f2cba8cef792a819eab25fa362ebde4<>res://.godot/imported/tap.wav-f3f75e7755fe8a06255c83531f67b931.sample::
+::res://sprites/::1794623147
+coin.png::CompressedTexture2D::5279376065403372259::1794623147::1794626005::1::::<><><>0<>0<>23d076dbaf8a0ad353cae8e516b7b820<>res://.godot/imported/coin.png-54d5e156d7891d9603a51f76f85b4fd9.ctex::
+fruit.png::CompressedTexture2D::3833443435510325781::1794623147::1794626005::1::::<><><>0<>0<>6172fd5c31b0119bee9f9b5ca3555bdf<>res://.godot/imported/fruit.png-33b325b6fecf0ae3ad310b50fcb64d04.ctex::
+knight.png::CompressedTexture2D::295135804269610365::1794623147::1794626005::1::::<><><>0<>0<>188cf393db5fa0da63bb36e8de15d2fa<>res://.godot/imported/knight.png-c78c026709c2736971ffc0a39338542e.ctex::
+platforms.png::CompressedTexture2D::7251704585169164513::1794623147::1794626005::1::::<><><>0<>0<>4af8c3540929a87259e95d7901047f71<>res://.godot/imported/platforms.png-fdcd4bebb7ecd5fd1592abe643f480f5.ctex::
+slime_green.png::CompressedTexture2D::5717026888524928911::1794623147::1794626005::1::::<><><>0<>0<>cfcf49dac824c379ebc31bd7f89f0cb9<>res://.godot/imported/slime_green.png-d23936e8ad50c1f02045d1fdaace456b.ctex::
+slime_purple.png::CompressedTexture2D::2638267481975185961::1794623147::1794626005::1::::<><><>0<>0<>b1d6e4ace7c5986d278f6e5988e087b7<>res://.godot/imported/slime_purple.png-3d9e552c3e3aeb2a7f3441f746b4c24b.ctex::
+world_tileset.png::CompressedTexture2D::4905064769215501768::1794623147::1794626005::1::::<><><>0<>0<>52853acda977eb364590306309ca15e1<>res://.godot/imported/world_tileset.png-8b3dc0eb27b141bfe097cdfc0d6186a3.ctex::
