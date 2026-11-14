@@ -1,8 +1,10 @@
 [gd_scene format=3 uid="uid://qpant0es5feb"]
 
+[ext_resource type="Script" uid="uid://bfonvaalknowu" path="res://node_2d.gd" id="1_0hol4"]
 [ext_resource type="PackedScene" uid="uid://b0an6psbby4bh" path="res://verity.tscn" id="1_epypp"]
 [ext_resource type="Texture2D" uid="uid://cb5bx2lei4rr1" path="res://sprites/world_tileset.png" id="1_wtcfe"]
 [ext_resource type="Script" uid="uid://byi4mukjqfolm" path="res://verity.gd" id="2_0hol4"]
+[ext_resource type="PackedScene" uid="uid://bjlpfmkwig280" path="res://area_2d.tscn" id="5_q6r6c"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_0e48y"]
 texture = ExtResource("1_wtcfe")
@@ -168,6 +170,7 @@ normal = Vector2(1, 0)
 distance = 11.0
 
 [node name="Node2D" type="Node2D" unique_id=427382558]
+script = ExtResource("1_0hol4")
 
 [node name="verity" parent="." unique_id=360231016 instance=ExtResource("1_epypp")]
 z_index = 5
@@ -195,3 +198,16 @@ physics_material_override = SubResource("PhysicsMaterial_ka324")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=158152532]
 shape = SubResource("WorldBoundaryShape2D_8tftu")
+
+[node name="Label" type="Label" parent="." unique_id=23411791]
+z_index = 2
+offset_left = 20.0
+offset_top = -129.0
+offset_right = 225.0
+offset_bottom = -54.0
+text = "Space to jump
+Left arrow key to move left
+Right arrow key to move"
+
+[node name="ammo" parent="." unique_id=822553480 instance=ExtResource("5_q6r6c")]
+position = Vector2(149, -67)
