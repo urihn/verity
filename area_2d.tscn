@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" uid="uid://dbj1ve3acu0bb" path="res://area_2d.gd" id="1_5rgpn"]
 [ext_resource type="Script" uid="uid://du62517ji3tex" path="res://collision_shape_2d.gd" id="2_c0nl8"]
-[ext_resource type="Texture2D" uid="uid://5b0vfgijqalr" path="res://sprites/pixil-frame-0 (1).png" id="3_5rgpn"]
+[ext_resource type="Texture2D" path="res://sprites/pixil-frame-0 (1).png" id="3_5rgpn"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_8tftu"]
 size = Vector2(26, 8)

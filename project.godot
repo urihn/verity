@@ -15,8 +15,9 @@ compatibility/default_parent_skeleton_in_mesh_instance_3d=true
 [application]
 
 config/name="Verity's Burger Run"
-run/main_scene="res://scenes/main.tscn"
+run/main_scene="uid://qpant0es5feb"
 config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon="res://icon.svg"
 
 [display]
 
@@ -25,10 +26,16 @@ window/size/viewport_height=360
 window/size/window_width_override=1280
 window/size/window_height_override=720
 window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+
+[physics]
+
+3d/physics_engine="Jolt Physics"
 
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
+rendering_device/driver.windows="d3d12"
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
 environment/defaults/default_clear_color=Color(0.08, 0.08, 0.12, 1)

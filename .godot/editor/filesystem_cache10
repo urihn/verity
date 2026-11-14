@@ -1,21 +1,17 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1794643252
+::res://::1794646065
+area_2d.tscn::PackedScene::3041748762329855575::1794643546::0::1::::<><><>0<>0<><>::uid://dbj1ve3acu0bb::::res://area_2d.gd<>uid://du62517ji3tex::::res://collision_shape_2d.gd<>res://sprites/pixil-frame-0 (1).png
 burger.png::CompressedTexture2D::7654475974502552528::1794643246::1794643246::1::::<><><>0<>0<>41c26ac1c84ea09b0642b80e16607c5b<>res://.godot/imported/burger.png-6baa118f6c3ad00ff4dcbbfca912e18e.ctex::
-character_body_2d.tscn::PackedScene::3169462647795327161::1794625910::0::1::::<><><>0<>0<><>::
 chef.png::CompressedTexture2D::8924824051589547677::1794643246::1794643246::1::::<><><>0<>0<>062d7bcb408f6e5b7bd456df0c8f1862<>res://.godot/imported/chef.png-93297e25ecb6899246b5e2f23b79c5fe.ctex::
+collision_shape_2d.gd::GDScript::8628728982299222507::1794636026::0::1::::<>CollisionShape2D<><>0<>0<><>::
 icon.svg::CompressedTexture2D::3178865741785748057::1794621898::1794626005::1::::<><><>0<>0<>2f40435ab497c10effe38ad552704d18<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 LICENSE & CREDITS.txt::TextFile::-1::1794623147::0::1::::<><><>0<>0<><>::
-node_2d.tscn::PackedScene::1154011416610922349::1794638066::0::1::::<><><>0<>0<><>::uid://bfonvaalknowu::::res://node_2d.gd<>uid://b0an6psbby4bh::::res://verity.tscn<>uid://cb5bx2lei4rr1::::res://sprites/world_tileset.png<>uid://byi4mukjqfolm::::res://verity.gd<>uid://bjlpfmkwig280::::res://area_2d.tscn
-animatable_body_2d.gd::GDScript::6571835125965495336::1794634912::0::1::::<>AnimatableBody2D<><>0<>0<><>::
-collision_shape_2d.gd::GDScript::8628728982299222507::1794636026::0::1::::<>CollisionShape2D<><>0<>0<><>::
-area_2d.gd::GDScript::7249646691339216327::1794638013::0::1::::<>Area2D<><>0<>0<><>::
-node_2d.gd::GDScript::2767093013531747616::1794636434::0::1::::<>Node2D<><>0<>0<><>::
-area_2d.tscn::PackedScene::3041748762329855575::1794637358::0::1::::<><><>0<>0<><>::uid://dbj1ve3acu0bb::::res://area_2d.gd<>uid://du62517ji3tex::::res://collision_shape_2d.gd<>uid://5b0vfgijqalr::::res://sprites/pixil-frame-0 (1).png
+node_2d.tscn::PackedScene::1154011416610922349::1794645887::0::1::::<><><>0<>0<><>::uid://b0an6psbby4bh::::res://verity.tscn<>uid://dwooirasqmwob::::res://sprites/world_tileset.png
 platforms.png::CompressedTexture2D::4767901395786153057::1794643246::1794643246::1::::<><><>0<>0<>0cf3c966e261fd2db92c7441f40a0489<>res://.godot/imported/platforms.png-d77465605ae903b67cbaa418ee6e1694.ctex::
 README.md::TextFile::-1::1794643040::0::1::::<><><>0<>0<><>::
 soldier.png::CompressedTexture2D::2194563674298673636::1794643246::1794643252::1::::<><><>0<>0<>063c541539404096d0d1a25ffce05344<>res://.godot/imported/soldier.png-cae83e95dfed7c4eb55625684896acfd.ctex::
 verity.gd::GDScript::4089251241701003010::1794636226::0::1::::<>CharacterBody2D<><>0<>0<><>::
-verity.tscn::PackedScene::4141987270865406733::1794630940::0::1::::<><><>0<>0<><>::uid://eg73xf6thqun::::res://sprites/knight.png
+verity.tscn::PackedScene::4141987270865406733::1794645890::0::1::::<><><>0<>0<><>::uid://crikmegitqun8::::res://verity_1.png
 verity_1.png::CompressedTexture2D::5983195550471507547::1794643252::1794643252::1::::<><><>0<>0<>93b53ed0ec77bca84b628a0fb8a90093<>res://.godot/imported/verity_1.png-3f16d651bd76ad49323437f143aceac7.ctex::
 verity_2.png::CompressedTexture2D::5340715920869523700::1794643252::1794643252::1::::<><><>0<>0<>356f8625ebebb7f1fd024d1ca49c6879<>res://.godot/imported/verity_2.png-c5cd83818c44abd983528ad69868a86f.ctex::
 verity_3.png::CompressedTexture2D::7063118149158057786::1794643252::1794643252::1::::<><><>0<>0<>90283ba7d866abfcfc5e645158b09643<>res://.godot/imported/verity_3.png-3a8ef31524e288ff19b4dbb6164c5d0f.ctex::
@@ -28,18 +24,7 @@ pixil-frame-0.png::CompressedTexture2D::6229477831865279017::1794634601::1794634
 ::res://music/::1794634563
 pixil-frame-0.png::CompressedTexture2D::8700099430897362710::1794634562::1794634563::1::::<><><>0<>0<>e0bc40f11b41b25d6c992055644b9151<>res://.godot/imported/pixil-frame-0.png-454c8f9e8cc1fcdec88b6f343c02a5cb.ctex::
 time_for_adventure.mp3::AudioStreamMP3::5075876164601029234::1794623147::1794626005::1::::<><><>0<>0<>a6e0fc660ccf31ae1fff71dc5c7d5438<>res://.godot/imported/time_for_adventure.mp3-2780301e92dd6fe7ff9355bb3f98cf7c.mp3str::
-::res://scenes/::1794643040
-main.tscn::PackedScene::-1::1794643040::0::1::::<><><>0<>0<><>::res://scripts/main.gd
-::res://scripts/::1794643040
-chef.gd::GDScript::6656287150630757583::1794643040::0::1::::<>Node2D<><>0<>0<><>::
-fx.gd::GDScript::659284696425840948::1794643040::0::1::::<>RefCounted<><>0<>0<><>::
-hud.gd::GDScript::4224867182110964604::1794643040::0::1::::<>CanvasLayer<><>0<>0<><>::
-level.gd::GDScript::713701357122218620::1794643040::0::1::::<>Node2D<><>0<>0<><>::
-level_data.gd::GDScript::8725477006800311001::1794643040::0::1::::<>RefCounted<><>0<>0<><>::
-main.gd::GDScript::3489147529542358354::1794643040::0::1::::<>Node<><>0<>0<><>::
-player.gd::GDScript::9128870698791972856::1794643040::0::1::::<>CharacterBody2D<><>0<>0<><>::
-projectile.gd::GDScript::7994800244482040972::1794643040::0::1::::<>Node2D<><>0<>0<><>::
-soldier.gd::GDScript::2705493498102686968::1794643040::0::1::::<>Node2D<><>0<>0<><>::
+::res://scenes/::1794645953
 ::res://sounds/::1794626005
 coin.wav::AudioStreamWAV::4850750244175748036::1794623147::1794626005::1::::<><><>0<>0<>288e2b264c399dd77d2602585d830f6a<>res://.godot/imported/coin.wav-fc7782b3c19e2c95d42ef7b3c218a810.sample::
 explosion.wav::AudioStreamWAV::925302284156141747::1794623147::1794626005::1::::<><><>0<>0<>124950eb65f7de1ef887ba931b50fa84<>res://.godot/imported/explosion.wav-3b6b3677a752f01353ef5846b5b927e3.sample::
