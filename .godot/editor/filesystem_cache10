@@ -1,14 +1,11 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1794646065
-area_2d.tscn::PackedScene::3041748762329855575::1794643546::0::1::::<><><>0<>0<><>::uid://dbj1ve3acu0bb::::res://area_2d.gd<>uid://du62517ji3tex::::res://collision_shape_2d.gd<>res://sprites/pixil-frame-0 (1).png
+::res://::1794646492
 burger.png::CompressedTexture2D::7654475974502552528::1794643246::1794643246::1::::<><><>0<>0<>41c26ac1c84ea09b0642b80e16607c5b<>res://.godot/imported/burger.png-6baa118f6c3ad00ff4dcbbfca912e18e.ctex::
 chef.png::CompressedTexture2D::8924824051589547677::1794643246::1794643246::1::::<><><>0<>0<>062d7bcb408f6e5b7bd456df0c8f1862<>res://.godot/imported/chef.png-93297e25ecb6899246b5e2f23b79c5fe.ctex::
 collision_shape_2d.gd::GDScript::8628728982299222507::1794636026::0::1::::<>CollisionShape2D<><>0<>0<><>::
 icon.svg::CompressedTexture2D::3178865741785748057::1794621898::1794626005::1::::<><><>0<>0<>2f40435ab497c10effe38ad552704d18<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-LICENSE & CREDITS.txt::TextFile::-1::1794623147::0::1::::<><><>0<>0<><>::
 node_2d.tscn::PackedScene::1154011416610922349::1794645887::0::1::::<><><>0<>0<><>::uid://b0an6psbby4bh::::res://verity.tscn<>uid://dwooirasqmwob::::res://sprites/world_tileset.png
 platforms.png::CompressedTexture2D::4767901395786153057::1794643246::1794643246::1::::<><><>0<>0<>0cf3c966e261fd2db92c7441f40a0489<>res://.godot/imported/platforms.png-d77465605ae903b67cbaa418ee6e1694.ctex::
-README.md::TextFile::-1::1794643040::0::1::::<><><>0<>0<><>::
 soldier.png::CompressedTexture2D::2194563674298673636::1794643246::1794643252::1::::<><><>0<>0<>063c541539404096d0d1a25ffce05344<>res://.godot/imported/soldier.png-cae83e95dfed7c4eb55625684896acfd.ctex::
 verity.gd::GDScript::4089251241701003010::1794636226::0::1::::<>CharacterBody2D<><>0<>0<><>::
 verity.tscn::PackedScene::4141987270865406733::1794645890::0::1::::<><><>0<>0<><>::uid://crikmegitqun8::::res://verity_1.png
